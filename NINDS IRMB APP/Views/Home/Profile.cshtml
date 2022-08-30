@@ -1,0 +1,20 @@
+﻿@model NINDS_IRMB_APP.Models.UserProfile
+@using System.Text.Json
+
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<h1>@ViewData["Title"]</h1>
+<h3>Id: @Model.UserId</h3>
+<h3>Display Name: @Model.DisplayName</h3>
+<h3>UserName: @Model.Username</h3>
+
+<div>
+    <pre>
+    <code class="json">
+        @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model, Newtonsoft.Json.Formatting.Indented))
+    </code> 
+</pre>
+</div>
+

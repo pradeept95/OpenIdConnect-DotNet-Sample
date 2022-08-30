@@ -1,0 +1,52 @@
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.AssemblyInfoInputs.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.AssemblyInfo.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.csproj.CoreCompileInputs.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.RazorAssemblyInfo.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.RazorAssemblyInfo.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\staticwebassets\NINDS IRMB APP.StaticWebAssets.Manifest.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\staticwebassets\NINDS IRMB APP.StaticWebAssets.xml
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\scopedcss\bundle\NINDS IRMB APP.styles.css
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.TagHelpers.input.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.TagHelpers.output.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.RazorCoreGenerate.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.RazorTargetAssemblyInfo.cache
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.RazorTargetAssemblyInfo.cs
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.pdb
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.exe
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.deps.json
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.runtimeconfig.json
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.runtimeconfig.dev.json
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.pdb
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.Views.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\NINDS IRMB APP.Views.pdb
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.Views.pdb
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.csproj.CopyComplete
+C:\Users\thapaliyapr\Desktop\pradeep\DotNet\NINDS IRMB APP\NINDS IRMB APP\obj\Debug\netcoreapp3.1\NINDS IRMB APP.genruntimeconfig.cache
